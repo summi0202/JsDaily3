@@ -1,0 +1,67 @@
+Q1. Write the Code for all Data types.
+
+Ans. This is a number
+ let num = 12345;
+        console.log(num);
+    o/p:- 12345
+    
+ This is a String
+    let str = "Software Developer"
+      console.log(str);
+  o/p:- Software Developer
+    
+  This is Boolean
+   let x = 10;
+        let y = 20;
+        let result = x>y;
+        let result1 = x<y;
+        console.log(result);
+        console.log(result1);
+    o/p:- false
+          true
+
+    This is an array
+      var x = ["java", "html", "css"];
+        console.log(x);
+
+    This is an Object
+        var x = {Fisrt:"Narendra", last:"Modi"}
+
+    This is null
+        var x = null;
+        console.log(x)
+    o/p:- null
+
+   This is an undefined 
+    var x = ;
+    console.log(x)
+    o/p:- x is undefined
+
+  This is example of bigint
+    let z = 12344566777n
+
+Q2. What are the uses of JavaScript Operators?
+Ans. Operators are used to assign values, compare values, perform arithmetic operations, and more.
+
+Q3. Explain the Assignment Operator.
+Ans. The assignment operator = assigns the value of its right-hand operand to a variable, a property, or an indexer element given by its left-hand operand.
+=, +=, -=, *=, /+, %=, **
+
+Q4. Explain the all Arithmetic Operators.
+Ans. operator           Description
+
+        +               Addition
+        -               Subtraction
+        *               Multiplication
+        /               Division
+        %               Modulus(Remainder)
+        **              Exponentiation
+        ++              Increment
+        --              Decrement
+
+Q5. What are the Binary Operators in js?
+Ans. These operators require two operands for operation.
+
+Q6. Explain the Pre-Increment and Post Increment in js.
+In both cases, the variable num is incremented by 1. However, the pre-increment operator ++ increases the value before it is used, while the post-increment operator ++ increases the value after it is used.
+
